@@ -1,6 +1,5 @@
 #########################################################
 # CKD / DKD MULTI-LAYER ML PIPELINE (CLEAN VERSION)
-# BASED ON YOUR ACTUAL EXCEL STRUCTURE
 #########################################################
 
 rm(list = ls())
